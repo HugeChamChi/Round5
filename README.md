@@ -6,7 +6,11 @@
   Round5
 
 * 시연 영상
-  https://www.youtube.com/watch?v=V4fL7YBporo
+
+https://github.com/user-attachments/assets/763a63d0-32c3-4152-af9f-539bb429085c
+
+
+
 ========================================================================
 
 * 게임 컨셉
